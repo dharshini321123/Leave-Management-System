@@ -1,6 +1,5 @@
 
 const API_URL = "https://leave-management-system-1-h6dc.onrender.com/api";
-
 let currentUserId = null;
 
 // Show Registration Section
